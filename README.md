@@ -12,7 +12,8 @@
 # 📊 GitHub Stats:
 ![](https://nirzak.vercel.app/api/trophy/?username=amanpratap01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://nirzak.vercel.app/api/streak?username=amanpratap01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak.vercel.app/api/top-langs?user=amanpratap01&theme=dark&hide_border=false)<br/>
+![](https://nirzak.vercel.app/api/top-langs?user=amanpratap01&theme=dark&hide_border=false&layout=compact)
+<br/>
 ![](https://nirzak.vercel.app/api/stats/?username=amanpratap01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
